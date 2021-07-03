@@ -197,6 +197,14 @@ h6 {
     border-radius: 15px;
 }
 
+@media(min-width: 991.98px) {
+    .dropdown-large-screen {
+        left: unset !important;
+        right: 5px;
+        width: 650px;
+    }
+}
+
 .navbar .dropdown ul li {
     min-width: 200px;
 }
@@ -241,6 +249,7 @@ h6 {
     .navbar .dropdown .dropdown ul {
         left: -90%;
     }
+
     .navbar .dropdown .dropdown:hover>ul {
         left: -100%;
     }
@@ -264,6 +273,7 @@ h6 {
     .mobile-nav-toggle {
         display: block;
     }
+
     .navbar ul {
         display: none;
     }
@@ -432,6 +442,7 @@ h6 {
     #hero p {
         width: 60%;
     }
+
     #hero .carousel-control-prev,
     #hero .carousel-control-next {
         width: 5%;
@@ -442,6 +453,7 @@ h6 {
     #hero .carousel-container {
         height: 90vh;
     }
+
     #hero h2 {
         font-size: 28px;
     }
@@ -479,6 +491,7 @@ h6 {
     0% {
         transform: translate(85px, 0%);
     }
+
     100% {
         transform: translate(-90px, 0%);
     }
@@ -488,6 +501,7 @@ h6 {
     0% {
         transform: translate(85px, 0%);
     }
+
     100% {
         transform: translate(-90px, 0%);
     }
@@ -497,6 +511,7 @@ h6 {
     0% {
         transform: translate(-90px, 0%);
     }
+
     100% {
         transform: translate(85px, 0%);
     }
@@ -506,6 +521,7 @@ h6 {
     0% {
         transform: translate(-90px, 0%);
     }
+
     100% {
         transform: translate(85px, 0%);
     }
@@ -515,6 +531,7 @@ h6 {
     0% {
         transform: translate(-90px, 0%);
     }
+
     100% {
         transform: translate(85px, 0%);
     }
@@ -524,6 +541,7 @@ h6 {
     0% {
         transform: translate(-90px, 0%);
     }
+
     100% {
         transform: translate(85px, 0%);
     }
@@ -691,6 +709,7 @@ section {
     .features .nav-link {
         padding: 15px;
     }
+
     .features .nav-link i {
         font-size: 24px;
     }
@@ -1519,6 +1538,7 @@ section {
     0% {
         transform: rotate(0deg);
     }
+
     100% {
         transform: rotate(360deg);
     }
@@ -1528,6 +1548,7 @@ section {
     0% {
         transform: rotate(0deg);
     }
+
     100% {
         transform: rotate(360deg);
     }
@@ -1581,9 +1602,11 @@ section {
     .breadcrumbs .d-flex {
         display: block !important;
     }
+
     .breadcrumbs ol {
         display: block;
     }
+
     .breadcrumbs ol li {
         display: inline-block;
     }
