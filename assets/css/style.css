@@ -1679,3 +1679,125 @@ section {
 .container-two {
     background-color: #eff0f4;
 }
+
+.list-style ul li {
+    line-height: 30px;
+}
+
+.container-three {
+    background-color: #eff0f4;
+}
+
+.step1 {
+    width: 140px;
+    height: 110px;
+    background: #ef9500;
+    position: relative;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+
+.step1:before {
+    content: "";
+    position: absolute;
+    left: 100%;
+    top: 26px;
+    width: 0;
+    height: 0;
+    border-top: 13px solid transparent;
+    border-left: 26px solid #ef9500;
+    border-bottom: 13px solid transparent;
+}
+
+.step2 {
+    width: 140px;
+    height: 110px;
+    background: #e36d2b;
+    position: relative;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+
+.step2:before {
+    content: "";
+    position: absolute;
+    right: 100%;
+    top: 26px;
+    width: 0;
+    height: 0;
+    border-top: 13px solid transparent;
+    border-right: 26px solid #e36d2b;
+    border-bottom: 13px solid transparent;
+}
+
+.step3 {
+    width: 140px;
+    height: 110px;
+    background: #2e135a;
+    position: relative;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+
+.step3:before {
+    content: "";
+    position: absolute;
+    left: 100%;
+    top: 26px;
+    width: 0;
+    height: 0;
+    border-top: 13px solid transparent;
+    border-left: 26px solid #2e135a;
+    border-bottom: 13px solid transparent;
+}
+
+.step4 {
+    width: 140px;
+    height: 110px;
+    background: #126fce;
+    position: relative;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+
+.step4:before {
+    content: "";
+    position: absolute;
+    right: 100%;
+    top: 26px;
+    width: 0;
+    height: 0;
+    border-top: 13px solid transparent;
+    border-right: 26px solid #126fce;
+    border-bottom: 13px solid transparent;
+}
+
+.step5 {
+    width: 140px;
+    height: 110px;
+    background: red;
+    position: relative;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+
+.step5:before {
+    content: "";
+    position: absolute;
+    left: 100%;
+    top: 26px;
+    width: 0;
+    height: 0;
+    border-top: 13px solid transparent;
+    border-left: 26px solid red;
+    border-bottom: 13px solid transparent;
+}
+
+.fold {
+    border-radius: 20px;
+}
