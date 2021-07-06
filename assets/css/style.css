@@ -9,7 +9,7 @@ a {
 }
 
 a:hover {
-    color: #4F4B03;
+    color: #2569B6;
     text-decoration: none;
 }
 
@@ -34,7 +34,7 @@ h6 {
     right: 15px;
     bottom: 15px;
     z-index: 996;
-    background: #4F4B03;
+    background: #2569B6;
     width: 40px;
     height: 40px;
     border-radius: 50px;
@@ -177,7 +177,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-    background: #4F4B03;
+    background: #2569B6;
     color: white;
 }
 
@@ -249,7 +249,6 @@ h6 {
     .navbar .dropdown .dropdown ul {
         left: -90%;
     }
-
     .navbar .dropdown .dropdown:hover>ul {
         left: -100%;
     }
@@ -273,7 +272,6 @@ h6 {
     .mobile-nav-toggle {
         display: block;
     }
-
     .navbar ul {
         display: none;
     }
@@ -429,11 +427,11 @@ h6 {
     color: #fff;
     -webkit-animation-delay: 0.8s;
     animation-delay: 0.8s;
-    border: 2px solid #4F4B03;
+    border: 2px solid #2569B6;
 }
 
 #hero .btn-get-started:hover {
-    background: #4F4B03;
+    background: #2569B6;
     color: #fff;
     text-decoration: none;
 }
@@ -442,7 +440,6 @@ h6 {
     #hero p {
         width: 60%;
     }
-
     #hero .carousel-control-prev,
     #hero .carousel-control-next {
         width: 5%;
@@ -453,7 +450,6 @@ h6 {
     #hero .carousel-container {
         height: 90vh;
     }
-
     #hero h2 {
         font-size: 28px;
     }
@@ -491,7 +487,6 @@ h6 {
     0% {
         transform: translate(85px, 0%);
     }
-
     100% {
         transform: translate(-90px, 0%);
     }
@@ -501,7 +496,6 @@ h6 {
     0% {
         transform: translate(85px, 0%);
     }
-
     100% {
         transform: translate(-90px, 0%);
     }
@@ -511,7 +505,6 @@ h6 {
     0% {
         transform: translate(-90px, 0%);
     }
-
     100% {
         transform: translate(85px, 0%);
     }
@@ -521,7 +514,6 @@ h6 {
     0% {
         transform: translate(-90px, 0%);
     }
-
     100% {
         transform: translate(85px, 0%);
     }
@@ -531,7 +523,6 @@ h6 {
     0% {
         transform: translate(-90px, 0%);
     }
-
     100% {
         transform: translate(85px, 0%);
     }
@@ -541,7 +532,6 @@ h6 {
     0% {
         transform: translate(-90px, 0%);
     }
-
     100% {
         transform: translate(85px, 0%);
     }
@@ -578,7 +568,7 @@ section {
     width: 120px;
     height: 1px;
     display: inline-block;
-    background: #4F4B03;
+    background: #2569B6;
     margin: 4px 10px;
 }
 
@@ -625,7 +615,7 @@ section {
     left: 0;
     top: 2px;
     font-size: 20px;
-    color: #4F4B03;
+    color: #2569B6;
     line-height: 1;
 }
 
@@ -643,15 +633,15 @@ section {
     border-radius: 5px;
     transition: 0.3s;
     line-height: 1;
-    color: #4F4B03;
+    color: #2569B6;
     -webkit-animation-delay: 0.8s;
     animation-delay: 0.8s;
     margin-top: 6px;
-    border: 2px solid #4F4B03;
+    border: 2px solid #2569B6;
 }
 
 .about .content .btn-learn-more:hover {
-    background: #4F4B03;
+    background: #2569B6;
     color: #fff;
     text-decoration: none;
 }
@@ -688,13 +678,13 @@ section {
 }
 
 .features .nav-link:hover {
-    color: #4F4B03;
+    color: #2569B6;
 }
 
 .features .nav-link.active {
-    background: #4F4B03;
+    background: #2569B6;
     color: #fff;
-    border-color: #4F4B03;
+    border-color: #2569B6;
 }
 
 @media (max-width: 768px) {
@@ -709,7 +699,6 @@ section {
     .features .nav-link {
         padding: 15px;
     }
-
     .features .nav-link i {
         font-size: 24px;
     }
@@ -736,7 +725,7 @@ section {
 .features .tab-pane ul i {
     font-size: 20px;
     padding-right: 4px;
-    color: #4F4B03;
+    color: #2569B6;
 }
 
 .features .tab-pane p:last-child {
@@ -775,12 +764,12 @@ section {
     transition: 0.5s;
     margin: 10px;
     color: #fff;
-    background: #4F4B03;
+    background: #2569B6;
 }
 
 .cta .cta-btn:hover {
     background: #fff;
-    color: #4F4B03;
+    color: #2569B6;
 }
 
 @media (max-width: 1024px) {
@@ -844,7 +833,7 @@ section {
 }
 
 .services .title a:hover {
-    color: #4F4B03;
+    color: #2569B6;
 }
 
 .services .description {
@@ -896,12 +885,12 @@ section {
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-    color: #4F4B03;
+    color: #2569B6;
 }
 
 .portfolio #portfolio-flters li.filter-active::before,
 .portfolio #portfolio-flters li.filter-active::after {
-    color: #4F4B03;
+    color: #2569B6;
 }
 
 .portfolio .portfolio-item {
@@ -1014,11 +1003,11 @@ section {
     height: 12px;
     background-color: #fff;
     opacity: 1;
-    border: 1px solid #4F4B03;
+    border: 1px solid #2569B6;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-    background-color: #4F4B03;
+    background-color: #2569B6;
 }
 
 .portfolio-details .portfolio-info {
@@ -1126,11 +1115,11 @@ section {
     height: 12px;
     background-color: #fff;
     opacity: 1;
-    border: 1px solid #4F4B03;
+    border: 1px solid #2569B6;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-    background-color: #4F4B03;
+    background-color: #2569B6;
 }
 
 
@@ -1160,7 +1149,7 @@ section {
 
 .pricing h4 {
     font-size: 36px;
-    color: #4F4B03;
+    color: #2569B6;
     font-weight: 600;
     font-family: "Poppins", sans-serif;
     margin-bottom: 20px;
@@ -1192,7 +1181,7 @@ section {
 }
 
 .pricing ul i {
-    color: #4F4B03;
+    color: #2569B6;
     font-size: 18px;
     padding-right: 4px;
 }
@@ -1224,16 +1213,16 @@ section {
 }
 
 .pricing .btn-buy:hover {
-    background: #4F4B03;
+    background: #2569B6;
 }
 
 .pricing .featured {
-    border: 2px solid #4F4B03;
+    border: 2px solid #2569B6;
 }
 
 .pricing .featured h3 {
     color: #fff;
-    background: #4F4B03;
+    background: #2569B6;
 }
 
 .pricing .advanced {
@@ -1245,7 +1234,7 @@ section {
     z-index: 1;
     font-size: 14px;
     padding: 1px 0 3px 0;
-    background: #4F4B03;
+    background: #2569B6;
     color: #fff;
 }
 
@@ -1272,13 +1261,13 @@ section {
 .faq .faq-list .question {
     display: block;
     position: relative;
-    font-family: #4F4B03;
+    font-family: #2569B6;
     font-size: 18px;
     line-height: 24px;
     font-weight: 400;
     padding-left: 25px;
     cursor: pointer;
-    color: #4F4B03;
+    color: #2569B6;
     transition: 0.3s;
 }
 
@@ -1303,7 +1292,7 @@ section {
 }
 
 .faq .faq-list .collapsed:hover {
-    color: #4F4B03;
+    color: #2569B6;
 }
 
 .faq .faq-list .collapsed .icon-show {
@@ -1357,7 +1346,7 @@ section {
     border-radius: 50px;
     width: 36px;
     height: 36px;
-    background: #4F4B03;
+    background: #2569B6;
     transition: ease-in-out 0.3s;
     color: #fff;
     display: inline-flex;
@@ -1366,7 +1355,7 @@ section {
 }
 
 .team .member .social a:hover {
-    background: #4F4B03;
+    background: #2569B6;
 }
 
 .team .member .social i {
@@ -1416,7 +1405,7 @@ section {
 
 .contact .info i {
     font-size: 20px;
-    color: #4F4B03;
+    color: #2569B6;
     float: left;
     width: 44px;
     height: 44px;
@@ -1451,7 +1440,7 @@ section {
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
-    background: #4F4B03;
+    background: #2569B6;
     color: #fff;
 }
 
@@ -1522,7 +1511,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"] {
-    background: #4F4B03;
+    background: #2569B6;
     border: 0;
     padding: 10px 24px;
     color: #fff;
@@ -1531,14 +1520,13 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-    background: #4F4B03;
+    background: #2569B6;
 }
 
 @-webkit-keyframes animate-loading {
     0% {
         transform: rotate(0deg);
     }
-
     100% {
         transform: rotate(360deg);
     }
@@ -1548,7 +1536,6 @@ section {
     0% {
         transform: rotate(0deg);
     }
-
     100% {
         transform: rotate(360deg);
     }
@@ -1602,11 +1589,9 @@ section {
     .breadcrumbs .d-flex {
         display: block !important;
     }
-
     .breadcrumbs ol {
         display: block;
     }
-
     .breadcrumbs ol li {
         display: inline-block;
     }
@@ -1684,11 +1669,12 @@ section {
 /* ......................registration..................................... */
 
 .text-style {
-    color: #4F4B03;
+    color: #2569B6;
 }
 
 .card-style {
-    background-color: #dc3545;
+    background-color: #2569B6;
+    color: white;
 }
 
 .form-style {
@@ -1724,12 +1710,12 @@ section {
 .step1:before {
     content: "";
     position: absolute;
-    left: 100%;
-    top: 26px;
+    top: 100%;
+    bottom: 26px;
     width: 0;
     height: 0;
-    border-top: 13px solid transparent;
-    border-left: 26px solid #ef9500;
+    border-bottom: 13px solid transparent;
+    border-right: 26px solid #ef9500;
     border-bottom: 13px solid transparent;
 }
 
@@ -1746,11 +1732,11 @@ section {
 .step2:before {
     content: "";
     position: absolute;
-    right: 100%;
-    top: 26px;
+    top: 100%;
+    bottom: 26px;
     width: 0;
     height: 0;
-    border-top: 13px solid transparent;
+    border-bottom: 13px solid transparent;
     border-right: 26px solid #e36d2b;
     border-bottom: 13px solid transparent;
 }
@@ -1768,12 +1754,12 @@ section {
 .step3:before {
     content: "";
     position: absolute;
-    left: 100%;
-    top: 26px;
+    top: 100%;
+    bottom: 26px;
     width: 0;
     height: 0;
-    border-top: 13px solid transparent;
-    border-left: 26px solid #2e135a;
+    border-bottom: 13px solid transparent;
+    border-right: 26px solid #2e135a;
     border-bottom: 13px solid transparent;
 }
 
@@ -1790,11 +1776,11 @@ section {
 .step4:before {
     content: "";
     position: absolute;
-    right: 100%;
-    top: 26px;
+    top: 100%;
+    bottom: 26px;
     width: 0;
     height: 0;
-    border-top: 13px solid transparent;
+    border-bottom: 13px solid transparent;
     border-right: 26px solid #126fce;
     border-bottom: 13px solid transparent;
 }
@@ -1812,15 +1798,24 @@ section {
 .step5:before {
     content: "";
     position: absolute;
-    left: 100%;
-    top: 26px;
+    top: 100%;
+    bottom: 26px;
     width: 0;
     height: 0;
-    border-top: 13px solid transparent;
-    border-left: 26px solid red;
+    border-bottom: 13px solid transparent;
+    border-right: 26px solid red;
     border-bottom: 13px solid transparent;
 }
 
 .fold {
     border-radius: 20px;
+}
+
+.vl {
+    border-left: 6px solid green;
+    height: 110px
+}
+
+.shift {
+    margin-left: 280px;
 }
